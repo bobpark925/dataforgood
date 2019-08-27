@@ -3,7 +3,7 @@
 * 워크숍 자료는 추후 업데이트될 예정입니다.
 
 고위공직자 재산데이터
-https://docs.google.com/spreadsheets/d/1zFplgQCgrLSSQeDCggn7jUhA-5j6Lp4EVcp_4IyWV7w/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1bhRtQo88g-z9NW3Cpre1_9Cbcm1tq50wTUnSk4OoWj8/edit?usp=sharing
 
 1.사업 배경
 
