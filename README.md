@@ -2,6 +2,8 @@
 
 * 워크숍 데이터 링크
 
+sli.do #7537
+
 (1) 국회의원 재산데이터 (2019)
 https://docs.google.com/spreadsheets/d/1bhRtQo88g-z9NW3Cpre1_9Cbcm1tq50wTUnSk4OoWj8/edit?usp=sharing
 
