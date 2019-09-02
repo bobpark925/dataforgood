@@ -8,6 +8,11 @@ https://docs.google.com/spreadsheets/d/1bhRtQo88g-z9NW3Cpre1_9Cbcm1tq50wTUnSk4Oo
 (2) 고위공직자 재산데이터 원본 (2018-2019)
 https://drive.google.com/file/d/1pAirGHS_Bm7txR_mIx-9KMYXWZK9V8dH/view?usp=sharing
 
+(3) 참고
+
+https://jaesan.newstapa.org/
+https://news.joins.com/digitalspecial/350
+
 1.사업 배경
 
 이른바 4차산업혁명시대, “데이터”의 중요성은 익히 들어 알고 있지만 비영리부문에서 데이터 활용은 남의 이야기인 것처럼 느껴집니다. 그러나 해외의 비영리부문을 중심으로 변화의 기술로 데이터를 활용하는 사례가 점차 늘어가고 있습니다. 변화의 기술로서 데이터를 적극적으로 활용하는 이른바 데이터액티비즘의 국내 저변을 넓히기 위하여 작은 워크숍을 준비하였습니다.
