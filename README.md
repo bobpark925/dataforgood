@@ -1,9 +1,12 @@
 # NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
 
-* 워크숍 자료는 추후 업데이트될 예정입니다.
+* 워크숍 데이터 링크
 
-고위공직자 재산데이터
+(1) 국회의원 재산데이터 (2019)
 https://docs.google.com/spreadsheets/d/1bhRtQo88g-z9NW3Cpre1_9Cbcm1tq50wTUnSk4OoWj8/edit?usp=sharing
+
+(2) 고위공직자 재산데이터 (2019)
+https://drive.google.com/file/d/1pAirGHS_Bm7txR_mIx-9KMYXWZK9V8dH/view?usp=sharing
 
 1.사업 배경
 
