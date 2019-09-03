@@ -5,14 +5,21 @@
 sli.do #7537
 
 (1) 국회의원 재산데이터 (2019)
+
 https://docs.google.com/spreadsheets/d/1bhRtQo88g-z9NW3Cpre1_9Cbcm1tq50wTUnSk4OoWj8/edit?usp=sharing
 
 (2) 고위공직자 재산데이터 원본 (2018-2019)
+
 https://drive.google.com/file/d/1pAirGHS_Bm7txR_mIx-9KMYXWZK9V8dH/view?usp=sharing
 
-(3) 참고
+(3) 발표자료
+
+https://1drv.ms/b/s!AivmQDr2xGkJgaBII8g8VxR7J3e6tQ?e=NEN7SX
+
+(4) 참고
 
 https://jaesan.newstapa.org/
+
 https://news.joins.com/digitalspecial/350
 
 1.사업 배경
