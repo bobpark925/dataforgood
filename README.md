@@ -3,7 +3,10 @@
 1강 자료
 https://1drv.ms/b/s!AivmQDr2xGkJgaE-S8BqzcGml9FEvg
 
-NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
+2강 자료
+http://bit.ly/2lTY1Su
+
+# NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
 
 * 워크숍 데이터 링크
 
