@@ -6,6 +6,8 @@ https://1drv.ms/b/s!AivmQDr2xGkJgaE-S8BqzcGml9FEvg
 2강 자료
 http://bit.ly/2lTY1Su
 
+https://docs.google.com/document/d/1XYdj5aCorJK86PsHJcNIBoYV2o1DQUo17r_H9xU9Obo/edit
+
 3강자료
 https://drive.google.com/file/d/1E_ZAz0usmc60OyazCaUwYubqpOUcyDqU/view?usp=sharing
 
