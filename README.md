@@ -20,6 +20,9 @@ https://drive.google.com/open?id=0B6s3U1tEGG8zd0VZRlRtMnA4a2UzS2xlTHFFZ3FlR09XTF
 2교시
 https://drive.google.com/open?id=0B6s3U1tEGG8zVE1HOWhZRXYxeXZ0VVE1VzAtbjZpTGlmM2dN
 
+*설문조사 :
+https://docs.google.com/forms/d/e/1FAIpQLScsFD0W-VfOtJlfoVoS7IO4_38RXZRfGQE2HOHqQMNl6PmveQ/viewform
+
 # NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
 
 * 워크숍 데이터 링크
