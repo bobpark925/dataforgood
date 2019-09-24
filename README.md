@@ -9,7 +9,7 @@ http://bit.ly/2lTY1Su
 2강 복습자료
 https://docs.google.com/document/d/1XYdj5aCorJK86PsHJcNIBoYV2o1DQUo17r_H9xU9Obo/edit
 
-3강자료
+3강 자료
 https://drive.google.com/file/d/1E_ZAz0usmc60OyazCaUwYubqpOUcyDqU/view?usp=sharing
 
 # NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
