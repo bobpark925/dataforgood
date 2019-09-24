@@ -13,8 +13,10 @@ https://docs.google.com/document/d/1XYdj5aCorJK86PsHJcNIBoYV2o1DQUo17r_H9xU9Obo/
 https://drive.google.com/file/d/1E_ZAz0usmc60OyazCaUwYubqpOUcyDqU/view?usp=sharing
 
 4강 자료
+1교시
 https://drive.google.com/open?id=0B6s3U1tEGG8zd0VZRlRtMnA4a2UzS2xlTHFFZ3FlR09XTFJF
-
+2교시
+https://drive.google.com/open?id=0B6s3U1tEGG8zVE1HOWhZRXYxeXZ0VVE1VzAtbjZpTGlmM2dN
 
 # NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
 
