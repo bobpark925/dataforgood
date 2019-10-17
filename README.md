@@ -1,4 +1,7 @@
-# 데이터액티비즘 스쿨
+# 데이터액티비즘 스쿨 - 2 (X 서울npo지원센터 2019.10.)
+
+
+# 데이터액티비즘 스쿨 - 1 (X 서울디지털재단 2019.9.)
 
 1강 자료
 https://1drv.ms/b/s!AivmQDr2xGkJgaE-S8BqzcGml9FEvg
@@ -23,7 +26,7 @@ https://drive.google.com/open?id=0B6s3U1tEGG8zVE1HOWhZRXYxeXZ0VVE1VzAtbjZpTGlmM2
 *설문조사 :
 https://docs.google.com/forms/d/e/1FAIpQLScsFD0W-VfOtJlfoVoS7IO4_38RXZRfGQE2HOHqQMNl6PmveQ/viewform
 
-# NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 
+# NPO 국제컨퍼런스_변화의 기술 : 데이터스토리텔러되기 (2019.9.2.) 
 
 * 워크숍 데이터 링크
 
