@@ -1,5 +1,8 @@
 # 데이터액티비즘 스쿨 - 2 (X 서울npo지원센터 2019.10.)
 
+3강 자료
+https://drive.google.com/open?id=1yKmknTETv0sCdGG7TbctOu7qUD5LTP4L
+
 2강 자료
 https://docs.google.com/presentation/d/1zmPM78bGjUlqrOxlxD8Sg8PatIe50wZZayVW9XO2nhM/edit?usp=sharing
 
