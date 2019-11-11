@@ -1,3 +1,8 @@
+# 데이터액티비즘 스쿨 - 3 (X 춘천사회혁신센터 2019.11.)
+
+1강 자료
+https://1drv.ms/b/s!AivmQDr2xGkJgaQbsTpwHtl3yLOl8g?e=rPBHhF
+
 # 데이터액티비즘 스쿨 - 2 (X 서울npo지원센터 2019.10.)
 
 3강 자료
