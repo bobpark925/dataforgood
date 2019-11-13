@@ -1,5 +1,8 @@
 # 데이터액티비즘 스쿨 - 3 (X 춘천사회혁신센터 2019.11.)
 
+2강 자료
+https://drive.google.com/drive/folders/1-PyYIcBbbkBs6nI0-wdtrF10rMC3U2Yt?usp=sharing
+
 1강 자료
 https://1drv.ms/b/s!AivmQDr2xGkJgaQbsTpwHtl3yLOl8g?e=rPBHhF
 
