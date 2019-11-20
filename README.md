@@ -1,5 +1,8 @@
 # 데이터액티비즘 스쿨 - 3 (X 춘천사회혁신센터 2019.11.)
 
+4강 자료
+https://drive.google.com/open?id=1yKmknTETv0sCdGG7TbctOu7qUD5LTP4L
+
 네트워킹데이 (2019. 11. 20. 수)
 https://blog.naver.com/socialinnovationpark/221706499608
 
