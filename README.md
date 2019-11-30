@@ -1,5 +1,5 @@
 # 디지털사회혁신서밋(X 춘천사회혁신센터 2019.11.30.)
-1세션
+<1세션>
 
 신하영
 https://drive.google.com/open?id=0B6s3U1tEGG8zNFBtWmpTaGpqc2wyMUpQNzR1LVQ2OHN0ak40
@@ -7,11 +7,20 @@ https://drive.google.com/open?id=0B6s3U1tEGG8zNFBtWmpTaGpqc2wyMUpQNzR1LVQ2OHN0ak
 김석경
 https://drive.google.com/open?id=1iJ0HxtG-a0rlSX_ndyJ6jb0O7NKdWLzO
 
-2세션
+<2세션>
 
-3세션
+박용
+https://drive.google.com/open?id=0B6s3U1tEGG8zbEhwNTA4YWc2WWhrMWsycEp2WDgtMEgwV0ZJ
 
-4세션
+강현숙
+https://drive.google.com/file/d/1_dAU07ioea1Zk5MfszkopgVuipSqDE2p/view?usp=sharing
+
+정유진
+https://drive.google.com/open?id=1MdIg1fJFLLQd_Ekq5pAaylO27o0pELqAUmi2dNrrtn8
+
+<3세션>
+
+<4세션>
 
 
 
