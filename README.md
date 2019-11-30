@@ -1,3 +1,14 @@
+# 디지털사회혁신서밋(X 춘천사회혁신센터 2019.11.30.)
+1세션
+
+신하영
+https://drive.google.com/open?id=0B6s3U1tEGG8zNFBtWmpTaGpqc2wyMUpQNzR1LVQ2OHN0ak40
+
+김석경
+https://drive.google.com/open?id=1iJ0HxtG-a0rlSX_ndyJ6jb0O7NKdWLzO
+
+
+
 # 데이터액티비즘 스쿨 - 3 (X 춘천사회혁신센터 2019.11.)
 
 5강 자료
