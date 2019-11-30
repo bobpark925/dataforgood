@@ -7,6 +7,21 @@ https://drive.google.com/open?id=0B6s3U1tEGG8zNFBtWmpTaGpqc2wyMUpQNzR1LVQ2OHN0ak
 김석경
 https://drive.google.com/open?id=1iJ0HxtG-a0rlSX_ndyJ6jb0O7NKdWLzO
 
+2세션
+
+박용
+https://drive.google.com/open?id=0B6s3U1tEGG8zbEhwNTA4YWc2WWhrMWsycEp2WDgtMEgwV0ZJ
+
+강현숙
+https://drive.google.com/file/d/1_dAU07ioea1Zk5MfszkopgVuipSqDE2p/view?usp=sharing
+
+정유진
+https://drive.google.com/open?id=1MdIg1fJFLLQd_Ekq5pAaylO27o0pELqAUmi2dNrrtn8
+
+3세션
+
+4세션
+
 
 
 # 데이터액티비즘 스쿨 - 3 (X 춘천사회혁신센터 2019.11.)
