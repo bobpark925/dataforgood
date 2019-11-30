@@ -21,7 +21,7 @@ https://drive.google.com/open?id=1MdIg1fJFLLQd_Ekq5pAaylO27o0pELqAUmi2dNrrtn8
 <3세션>
 
 천영환
-https://drive.google.com/open?id=1Vmnwfwr8rLZZSQCF9y1fPeAuU03Q-mYu천영환
+https://drive.google.com/open?id=1Vmnwfwr8rLZZSQCF9y1fPeAuU03Q-mYu
 
 김미영
 https://drive.google.com/open?id=0B6s3U1tEGG8zczV4eGlka1VGcUJKZHZTNkwxNVN2X0JxTE53
