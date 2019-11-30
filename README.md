@@ -20,9 +20,22 @@ https://drive.google.com/open?id=1MdIg1fJFLLQd_Ekq5pAaylO27o0pELqAUmi2dNrrtn8
 
 <3세션>
 
+천영환
+https://drive.google.com/open?id=1Vmnwfwr8rLZZSQCF9y1fPeAuU03Q-mYu천영환
+
+김미영
+https://drive.google.com/open?id=0B6s3U1tEGG8zczV4eGlka1VGcUJKZHZTNkwxNVN2X0JxTE53
+
+최형욱
+https://drive.google.com/open?id=15Hm81Tui4eF8qBgz6DA2A5UnfP2P6SvT
+
 <4세션>
 
+권오현
+https://drive.google.com/open?id=1h9NmJLyiy-3VrKORW7bsd9RdkIyBYlkTTcM5FjTdJ0E
 
+정진임
+https://drive.google.com/open?id=0B6s3U1tEGG8zX2pQbnl4RU5zLXhHYkh3MEpWYV9ramNOTGVJ
 
 # 데이터액티비즘 스쿨 - 3 (X 춘천사회혁신센터 2019.11.)
 
